@@ -4,7 +4,7 @@
 
 🔥 A passionate and purpose-driven **certified software engineer** on a journey to become a **fullstack developer**.  
 🎯 Currently focused on building responsive, user-first applications using **React**, **JavaScript**, and **Tailwind CSS**, while learning **Node.js**, **Express**, and **MongoDB** to deliver full end-to-end solutions.  
-📚 Actively working toward earning a **Computer Science degree at Miva University** to deepen my technical foundation.  
+📚 Actively working toward earning a **Computer Science degree at University of the People** to deepen my technical foundation.  
 💡 I transitioned into tech through self-learning and formal training at **The Curve Africa**, building real-world projects despite limited resources.  
 🌍 I'm driven by impact, community empowerment, and the endless possibilities of technology.
 
